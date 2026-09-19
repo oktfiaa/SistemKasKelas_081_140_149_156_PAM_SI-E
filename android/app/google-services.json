@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931937718819",
+    "project_id": "sistemkaskelas",
+    "storage_bucket": "sistemkaskelas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931937718819:android:1a4f530da45da848991796",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyTxX_BM4wdtAkMewi1q_f157_g5eEsSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
